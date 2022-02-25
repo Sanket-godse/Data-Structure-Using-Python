@@ -8,7 +8,6 @@ This is based on a data structure known as a hash table.
 Since sets are unordered, we cannot access items 
 using indexes like we do in lists.
 """
-#--set is linear data structure 
 st=set()            #---Initializing the set
 st2=set()
 
